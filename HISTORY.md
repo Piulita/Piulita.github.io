@@ -35,7 +35,7 @@
 ## v0.0.5 / 2016-11-18
 
   * Registrazione a [Google+](https://plus.google.com/105354050178632339172)
-  * Installazione e configurazione [Jetpack](@Automattic/Jetpack)
+  * Installazione e configurazione [Jetpack](https://github.com/Automattic/Jetpack)
   * Connessione del sito al network [WordPress.com](http://WordPress.com)
 
 ## v0.0.4 / 2016-11-16
@@ -46,13 +46,13 @@
 
 ## v0.0.3 / 2016-11-14
 
-  * Installazione [WordPress](@WordPress)
-  * Configurazione database [MySQL](@MySQL)
+  * Installazione [WordPress](https://github.com/WordPress)
+  * Configurazione database [MySQL](https://github.com/MySQL)
   * Installazione e configurazione tema [L1T.IT Material Design Professionale](http://www.L1T.IT)
 
 ## v0.0.2 / 2016-11-12
 
-  * Registrazione dominio principale [Piulita.org]((http://www.piulita.org)
+  * Registrazione dominio principale [Piulita.org](http://www.piulita.org)
   * Registrazione dominio [Piulita.it](http://www.piulita.it)
   * Registrazione dominio [Piulita.eu](http://www.piulita.eu)
   * Registrazione dominio [Piulita.cloud](http://www.piulita.cloud)
