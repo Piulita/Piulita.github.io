@@ -13,7 +13,7 @@
 ## v0.0.9 / 2016-11-24
 
   * Registrazione a [Twitter](https://twitter.com/PiulitaOrg)
-  * Registrazione a [Instagram](https://www.instagram.com/PiulitaOrg)
+  * Registrazione a [Instagram](https://instagram.com/PiulitaOrg)
   * Installati contenuti d'esempio
 
 ## v0.0.8 / 2016-11-23
@@ -63,4 +63,4 @@
 
 ## v0.0.0 / 2016-10-06
 
-  * Nasce l' *O*rganizzazione *N*on *L*ucrativa di *U*tilità *S*ociale "[Fasano Piùlita - ONLUS](http://www.piulita.org)"
+  * Nasce l' **O**rganizzazione **N**on **L**ucrativa di **U**tilità **S**ociale "[Fasano Piùlita - ONLUS](http://www.piulita.org)"
