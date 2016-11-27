@@ -10,6 +10,10 @@
 
 ### Terminare
 
+## v0.1.0 / 2016-11-26
+
+  * Creata nuova pagina [mission](http://www.piulita.org/mission) da mettere in Home
+
 ## v0.0.9 / 2016-11-24
 
   * Registrazione a [Twitter](https://twitter.com/PiulitaOrg)
