@@ -10,9 +10,20 @@
 
 ### Terminare
 
+## v0.1.2 / 2016-12-14
+
+  * Registrazione a [YouTube](https://www.youtube.com/c/PiulitaOrg)
+
+## v0.1.1 / 2016-11-28
+
+  * Registrazione a [Facebook](https://www.facebook.com/PiulitaOrg)
+
 ## v0.1.0 / 2016-11-26
 
-  * Creata nuova pagina [mission](http://www.piulita.org/mission) da mettere in Home
+  * Creata nuova pagina [mission](http://www.piulita.org/mission) messa in Home
+  * Creata nuova pagina [progetto](http://www.piulita.org/progetto/)
+  * Creata nuova pagina [statuto](http://www.piulita.org/chi-siamo/statuto/)
+  * Creata nuova pagina [vantaggi](http://www.piulita.org/vantaggi/)
 
 ## v0.0.9 / 2016-11-24
 
